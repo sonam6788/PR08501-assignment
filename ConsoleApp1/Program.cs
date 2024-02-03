@@ -7,6 +7,7 @@ class program
     {
 
         // variable declaration
+
         int health = 6;
         int hunger = 7;
         int happiness = 8;
